@@ -1,0 +1,99 @@
+ [ 
+  
+      {
+        "id": 1,
+        "nombre": "Zapatillas",
+        "precio": 1500,
+        "categoria": "indumentaria",
+        "img": "../src/img/zapatillas.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 2,
+        "nombre": "Campera",
+        "precio": 2000,
+        "categoria": "indumentaria",
+        "img": "../src/img/campera.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 3,
+        "nombre": "Botas",
+        "precio": 5000,
+        "categoria": "indumentaria",
+        "img": "../src/img/botas.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 4,
+        "nombre": "Celular",
+        "precio": 3000,
+        "categoria": "tecnologia",
+        "img": "../src/img/celular.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 5,
+        "nombre": "Bicicleta",
+        "precio": 15000,
+        "categoria": "bicicletas",
+        "img": "../src/img/bici.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 6,
+        "nombre": "Tv",
+        "precio": 50000,
+        "categoria": "tecnologia",
+        "img": "../src/img/tele.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 7,
+        "nombre": "Cafetera",
+        "precio": 50000,
+        "categoria": "electrodomesticos",
+        "img": "../src/img/cafetera.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 8,
+        "nombre": "Camara Seguridad",
+        "precio": 50000,
+        "categoria": "tecnologia",
+        "img": "../src/img/camaraseguridad.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 9,
+        "nombre": "Microondas",
+        "precio": 50000,
+        "categoria": "electrodomesticos",
+        "img": "../src/img/microondas.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 10,
+        "nombre": "Auriculares",
+        "precio": 50000,
+        "categoria": "tecnologia",
+        "img": "../src/img/auriculares.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 11,
+        "nombre": "Auriculares Gamer",
+        "precio": 50000,
+        "categoria": "tecnologia",
+        "img": "../src/img/auricularescable.jpg",
+        "stock": 3 
+      },
+      {
+        "id": 12,
+        "nombre": "Parlante",
+        "precio": 50000,
+        "categoria": "tecnologia",
+        "img": "../src/img/parlante.jpg",
+        "stock": 3 
+      }
+    ]
